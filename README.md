@@ -20,4 +20,4 @@ https://drive.google.com/file/d/1tksg-lmls3j4gBxX4qRC1POMEOUW7wMZ/view?usp=shari
 
 ### Manual del usuario⌨️
 
-https://drive.google.com/file/d/1tDJhV5fKt4pjXttrvg4tC81ZFjyV4B_y/view?usp=sharing
+https://drive.google.com/file/d/1e3hJhY5P7AjckiPJezX1hWoXOYfJe8oe/view?usp=sharing
