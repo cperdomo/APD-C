@@ -9,3 +9,9 @@ Hay numerosos factores que limitan el rango de acción y el buen funcionamiento 
 Dado que estos estudios e investigaciones se han realizado en zonas europeas donde las condiciones climáticas no son equiparables con las que se presentan en la zona ecuatorial, específicamente en Colombia, dichos modelos para la detección y corrección de propagaciones anómalas para un radar meteorológico requieren ser ajustados, para que tengan aplicabilidad en esta zona de estudio.  
 
 Por consiguiente, con referente a los campos académicos y de investigación, se observa que el interés de implementar soluciones computacionales abiertas para el estudio, análisis y detección de propagaciones anómalas a partir de la gestión de las (medidas/muestras) tomadas de los archivos que generan los radares meteorológicos en Colombia ha incrementado, dado las implicaciones que tiene el hecho de acercarse a predicciones más confiables y “precisas” en cuanto a eventos climáticos se refiere.
+
+#Instalador
+
+#Manual del programador
+
+#Manual de usuario
