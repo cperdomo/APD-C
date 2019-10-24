@@ -15,3 +15,5 @@ Por consiguiente, con referente a los campos académicos y de investigación, se
 #Manual del programador
 
 #Manual de usuario
+
+<title>Ola's blog</title>
